@@ -26,7 +26,7 @@ header{
     }
     
     #menuToggle a:hover {
-        color: #4ef565;
+        color: cadetblue;
     }
     
     
@@ -73,7 +73,7 @@ header{
     #menuToggle input:checked~span {
         opacity: 1;
         transform: rotate(45deg) translate(-2px, -1px);
-        background:#077c2a;
+        background: cadetblue;
     }
     
     
@@ -95,7 +95,7 @@ header{
         padding: 50px;
         padding-top: 125px;
     
-        background: #bafaa9;
+        background: #cbf1e9;
         list-style-type: none;
         -webkit-font-smoothing: antialiased;
     
