@@ -5,5 +5,9 @@ header{
     justify-content: space-around;
     align-items: center;
     padding: 10px;
+    .imagemcabeçario{
+        width: 6%;
+        border-radius: 50%;
+    }
     
 }
